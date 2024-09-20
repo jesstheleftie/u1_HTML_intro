@@ -1,0 +1,34 @@
+body {
+    background-color: deepskyblue
+}
+
+header {
+    background-color: #b39ddb;
+    padding: 15px;
+}
+
+h2, h3 {
+    color: rgb(200, 200, 20);
+    letter-spacing: 1em;
+    text-decoration: line-through;
+}
+
+h2 {
+    font-size: 8px;
+}
+
+button {
+    border: 3px solid red;
+}
+
+.login-button{
+    background-color: green;
+}
+
+.shopping-button{
+    background-color: pink;
+}
+
+#checkout {
+    border-radius: 20%;
+}
